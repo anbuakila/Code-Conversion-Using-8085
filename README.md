@@ -46,7 +46,6 @@ STORE2: STA 4301H
 HLT
 ```
 
-
 ## Output:
 <img width="1851" height="811" alt="Screenshot 2025-09-15 134533" src="https://github.com/user-attachments/assets/397ad284-d29c-4dcd-a6d0-cbe989373d42" />
 <img width="1843" height="804" alt="EXP 4 INPUT 1" src="https://github.com/user-attachments/assets/5835a11c-1a93-41fa-a8d5-b2ab934b7f20" />
